@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-- 🧑‍🎓:I am a double major undergraduate student in Mathematics and Computer Science, from Hong Kong University of Science and Technology
+- 🧑‍🎓:Double major undergraduate in Mathematics and Computer Science, from Hong Kong University of Science and Technology
 
 - ➕➖✖️➗ Mathematics is my most favourite in university so far.
 - 💰 I love trading stock during my free time. I have hit over 3 millions HKD profit when I was 20, with 650% profit during 2019-2022.
