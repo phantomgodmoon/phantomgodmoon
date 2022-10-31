@@ -9,10 +9,10 @@
 - ➕➖✖️➗ Mathematics is my most favourite in university so far.
 - 💰 I love trading stock during my free time. I have hit over 3 millions HKD profit when I was 20, with 650% profit during 2019-2022.
 
-- 🎲 I am a professional poker player. Please feel free to invite me for a poke game :)
+- 🎲 I am a professional poker player. Please feel free to invite me for a poker game :)
 
 - 👨‍💼 How to reach my CV: https://www.linkedin.com/in/marco-leung-aa17711a7/
-- :mailbox:How to reach me: phantomgodmoon@protonmail.com
+- 📫 How to reach me: phantomgodmoon@protonmail.com
 
 ---
 
