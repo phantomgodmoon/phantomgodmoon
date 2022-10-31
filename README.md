@@ -1,7 +1,8 @@
 ♥️ Self Introduciton (Created 1 Nov 2022, still being designed)
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
+  <img src="https://www.telegraph.co.uk/content/dam/betting/Better-Collective/8-Classic.jpg" width="300"/>
   <img src="https://miro.medium.com/max/1400/1*L76A5gL6176UbMgn7q4Ybg.jpeg" width="300"/>
 </div>
 
