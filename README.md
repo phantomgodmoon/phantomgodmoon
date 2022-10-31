@@ -4,11 +4,12 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope:I am a double major undergraduate student in Mathematics and Computer Science, from Hong Kong University of Science and Technology
 
-- :seedling: Exploring Technical Content Writing.
+- ➕➖✖️➗ Mathematics is my most favourite in university so far.
+- 💰 I love trading stock during my free time. I have hit over 3 millions HKD profit when I was 20, with 650% profit during 2019-2022
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- 🎲 I am a professional poker player. Please feel free to invite me for a poke game :)
 
 - 👨‍💼 How to reach my CV: https://www.linkedin.com/in/marco-leung-aa17711a7/
 - :mailbox:How to reach me: phantomgodmoon@protonmail.com
