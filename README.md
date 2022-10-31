@@ -2,7 +2,7 @@
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <img src="https://media.swncdn.com/cms/BST/67147-gettyimages-899906782-noipornpan.1200w.tn.jpg" width="100"/>
+  <img src="https://media.swncdn.com/cms/BST/67147-gettyimages-899906782-noipornpan.1200w.tn.jpg" width="200"/>
 </div>
 
 - 🧑‍🎓 Double major undergraduate in Mathematics and Computer Science, from Hong Kong University of Science and Technology
