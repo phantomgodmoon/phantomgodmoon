@@ -10,7 +10,8 @@
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge][(https://www.linkedin.com/in/marco-leung-aa17711a7/)]
+- 👨‍💼 How to reach my CV: https://www.linkedin.com/in/marco-leung-aa17711a7/
+- :mailbox:How to reach me: phantomgodmoon@protonmail.com
 
 ---
 
