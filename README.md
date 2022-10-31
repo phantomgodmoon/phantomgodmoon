@@ -16,7 +16,7 @@
 
 <div id="header" align="center">
   <img src="https://media.cntraveler.com/photos/56cb8369b19e7d9b785203a5/master/w_2048,h_1536,c_limit/Beautiful-Canada-Stanley-Park.jpg" width="500"/>
-  <img src="https://www.state.gov/wp-content/uploads/2019/04/Japan-2107x1406.jpg" width="500"/>
+  <img src="https://www.state.gov/wp-content/uploads/2019/04/Japan-2107x1406.jpg" width="550"/>
 </div>
 ---
 
