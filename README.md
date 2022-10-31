@@ -15,7 +15,7 @@
 
 
 <div id="header" align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cntraveler.com%2Fgalleries%2F2016-02-23%2Fthe-most-beautiful-places-in-canada&psig=AOvVaw0ltWz5rCf_zkrai502NdXu&ust=1667328353132000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCPiPw6SQi_sCFQAAAAAdAAAAABAS" width="500"/>
+  <img src="https://media.cntraveler.com/photos/56cb8369b19e7d9b785203a5/master/w_2048,h_1536,c_limit/Beautiful-Canada-Stanley-Park.jpg" width="500"/>
 </div>
 ---
 
