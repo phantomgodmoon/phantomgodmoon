@@ -36,3 +36,5 @@
 
   
   [embed] https://drive.google.com/file/d/16SQCdCIzYccwxOIL88rhpCQB5XUI8puq/export?format=pdf [/embed] 
+  <a href="phantomgodmoon.github.io/Math-Capstone_Project/MATH_4999_ Leung Pak Hei.pdf" target="_blank">PDF.</a>
+
