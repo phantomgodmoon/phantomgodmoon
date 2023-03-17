@@ -14,7 +14,7 @@
 - 📊 💬 I am pretty presentable and communicate. Please feel free to invite for case competition too.
 - 👨‍💼 How to reach my CV: https://www.linkedin.com/in/marco-leung-aa17711a7/
 - 📫 How to reach me: phantomgodmoon@protonmail.com
-- Highlighted project: Mathematics capstone project: ML-based pairs trading, option pricing, and Portfolio optimizaton: https://github.com/phantomgodmoon/Math-Capstone_Project
+- <b>Highlighted project: Mathematics capstone project: ML-based pairs trading, option pricing, and Portfolio optimizaton: https://github.com/phantomgodmoon/Math-Capstone_Project </b>
 
 
 <div id="header" align="center">
