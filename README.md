@@ -34,5 +34,3 @@
 
   
   <a href="phantomgodmoon.github.io/Math-Capstone_Project/MATH_4999_ Leung Pak Hei.pdf"></a>
-  <iframe src="Math-Capstone_Project/MATH_4999_%20Leung%20Pak%20Hei.pdf" frameborder="0"></iframe>
-   <iframe src="phantomgodmoon.github.io/Math-Capstone_Project/MATH_4999_ Leung Pak Hei.pdf" frameborder="0"></iframe>
