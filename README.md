@@ -8,7 +8,8 @@
 </div>
 
 - 🧑‍🎓 Double major undergraduate in Mathematics and Computer Science with a minor in business, from Hong Kong University of Science and Technology
-- ➕ Mathematics is my most favourite in university so far. I love its beauty, ingenuity and creativity. I am also passionate in machine learning and completed all of the postgraduate level artificial inteligence courses in my university.
+- ➕ Mathematics is my most favourite subject, especially the Mathematical finance, statistics and probability. 
+- I am also passionate in machine learning and completed all of the postgraduate level artificial inteligence courses in my university.
 - 💰 I love trading stock during my free time. I have hit over 3 millions HKD profit when I was 21, with 650% profit during 2019-2022.
 - 🎲 I am a professional poker player. Please feel free to invite me for a poker game :)
 - 📊 💬 I am pretty presentable and communicate. Please feel free to invite for case competition too.
