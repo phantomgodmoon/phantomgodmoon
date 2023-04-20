@@ -28,12 +28,15 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/pytorch/pytorch-original.svg" title="Pytorch" alt="Pytorch" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/solidity/solidity-original.svg" title="Solidity" alt="Solidity" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/tensorflow/tensorflow-original.svg" title="Tensorflow" alt="Tensorflow" width="40" height="40"/>&nbsp;
+
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 
   
   <a href="phantomgodmoon.github.io/Math-Capstone_Project/MATH_4999_ Leung Pak Hei.pdf"></a> <br>
   Highlighted project: Machine learning in quantitative trading 🔥
   ![Poster (1)](https://user-images.githubusercontent.com/68416360/233400456-fd1ecd04-074c-4399-8609-4b14d2a0bff8.png)
+  [FYP_Final Report.pdf](https://github.com/phantomgodmoon/phantomgodmoon/files/11287572/FYP_Final.Report.pdf)
+
   My Stock Trading Challenges: (starting from Sep 2022, USD 100,000)
   ![螢幕擷取畫面 2023-04-20 224612](https://user-images.githubusercontent.com/68416360/233403173-e0452fe5-c684-495c-9664-9b11e4ca1e63.png)
   
