@@ -14,8 +14,7 @@
 - 🎲 I am a professional poker player. Please feel free to invite me for a poker game :)
 - 👨‍💼 How to reach my CV: https://www.linkedin.com/in/marco-leung-aa17711a7/
 - 📫 How to reach me: phantomgodmoon@protonmail.com
-- <b>Highlighted project: Mathematics capstone project: ML-based pairs trading, option pricing, and Portfolio optimizaton: https://github.com/phantomgodmoon/Math-Capstone_Project </b>
-- <b>Another Highlighted project: Machine learning in quantitative stock trading:  
+
 
 
 
@@ -29,11 +28,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/solidity/solidity-original.svg" title="Solidity" alt="Solidity" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/tensorflow/tensorflow-original.svg" title="Tensorflow" alt="Tensorflow" width="40" height="40"/>&nbsp;
 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-
   
-  <a href="phantomgodmoon.github.io/Math-Capstone_Project/MATH_4999_ Leung Pak Hei.pdf"></a> <br>
-  Highlighted project: Machine learning in quantitative trading 🔥
+  - <b>Highlighted project: Mathematics capstone project: ML-based pairs trading, option pricing, and Portfolio optimizaton: https://github.com/phantomgodmoon/Math-Capstone_Project </b>
+  
+  <b>Another Highlighted project: Machine learning in quantitative stock trading:   🔥
   ![Poster (1)](https://user-images.githubusercontent.com/68416360/233400456-fd1ecd04-074c-4399-8609-4b14d2a0bff8.png)
   [FYP_Final Report.pdf](https://github.com/phantomgodmoon/phantomgodmoon/files/11287572/FYP_Final.Report.pdf)
 
