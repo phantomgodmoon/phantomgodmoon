@@ -7,7 +7,7 @@
 </div>
 
 - 🧑‍🎓 Double major undergraduate in Mathematics and Computer Science with a minor in business, from Hong Kong University of Science and Technology
-- ➕ Mathematics is my most favourite subject, especially the Mathematical finance, statistics and probability. 
+- ➕ Mathematics and Computer science are my most favourite subject, especially the Mathematical finance, combinatorial analysis, probability, and machine learning
 - ✈️ Travel lover. I have been to over 80 cities in the world. The favourite countries for me are definitely Canada, Australia, Japan, and Hong Kong 🥰
 - 🤖 I am also passionate in machine learning and completed all of the postgraduate level artificial inteligence courses in my university.
 - 💰 I love trading stock during my free time. I have hit over USD 700,000 profit when I was 21, with 920% profit from Sep 2020 to April 2023.
