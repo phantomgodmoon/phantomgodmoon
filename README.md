@@ -29,9 +29,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/tensorflow/tensorflow-original.svg" title="Tensorflow" alt="Tensorflow" width="40" height="40"/>&nbsp;
 
   
-  - <b>Highlighted project: Mathematics capstone project: ML-based pairs trading, option pricing, and Portfolio optimizaton: https://github.com/phantomgodmoon/Math-Capstone_Project </b>
+<b>Highlighted project: Mathematics capstone project: ML-based pairs trading, option pricing, and Portfolio optimizaton: https://github.com/phantomgodmoon/Math-Capstone_Project </b>
   
-  <b>Another Highlighted project: Machine learning in quantitative stock trading:   🔥
+  <b>Another Highlighted project: Machine learning in quantitative stock trading:   🔥</b>
   ![Poster (1)](https://user-images.githubusercontent.com/68416360/233400456-fd1ecd04-074c-4399-8609-4b14d2a0bff8.png)
   [FYP_Final Report.pdf](https://github.com/phantomgodmoon/phantomgodmoon/files/11287572/FYP_Final.Report.pdf)
 
