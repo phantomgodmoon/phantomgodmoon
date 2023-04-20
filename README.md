@@ -39,6 +39,3 @@
   ![螢幕擷取畫面 2023-04-20 224612](https://user-images.githubusercontent.com/68416360/233403173-e0452fe5-c684-495c-9664-9b11e4ca1e63.png)
   
 
-  <div id="header" align="center">
-  <img src="https://media.cntraveler.com/photos/56cb8369b19e7d9b785203a5/master/w_2048,h_1536,c_limit/Beautiful-Canada-Stanley-Park.jpg" width="500" height="400"/>
-  </div>
