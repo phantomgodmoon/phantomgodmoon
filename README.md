@@ -8,7 +8,7 @@
 
 - 🧑‍🎓 Double major undergraduate in Mathematics and Computer Science with a minor in business, from Hong Kong University of Science and Technology
 - ➕ Mathematics is my most favourite subject, especially the Mathematical finance, statistics and probability. 
-- I am also passionate in machine learning and completed all of the postgraduate level artificial inteligence courses in my university.
+- :airplane: I am also passionate in machine learning and completed all of the postgraduate level artificial inteligence courses in my university.
 - 💰 I love trading stock during my free time. I have hit over 4 millions HKD profit when I was 21, with 650% profit during 2019-2023.
 - 🎲 I am a professional poker player. Please feel free to invite me for a poker game :)
 - 👨‍💼 How to reach my CV: https://www.linkedin.com/in/marco-leung-aa17711a7/
