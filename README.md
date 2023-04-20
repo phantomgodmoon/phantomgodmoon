@@ -2,7 +2,6 @@
 
 
 <div id="header" align="center">
-  <img src="https://assets.entrepreneur.com/content/3x2/2000/20191009140007-GettyImages-1053962188.jpeg?crop=4:3" width="300" height="200"/>
   <img src="https://www.telegraph.co.uk/content/dam/betting/Better-Collective/8-Classic.jpg" width="300" height="200"/>
   <img src="https://miro.medium.com/max/1400/1*L76A5gL6176UbMgn7q4Ybg.jpeg" width="300" height="200"/>
 </div>
