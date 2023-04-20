@@ -15,7 +15,7 @@
 - 👨‍💼 How to reach my CV: https://www.linkedin.com/in/marco-leung-aa17711a7/
 - 📫 How to reach me: phantomgodmoon@protonmail.com
 - <b>Highlighted project: Mathematics capstone project: ML-based pairs trading, option pricing, and Portfolio optimizaton: https://github.com/phantomgodmoon/Math-Capstone_Project </b>
-
+- <b>Another Highlighted project: Machine learning in quantitative stock trading:  
 
 <div id="header" align="center">
   <img src="https://media.cntraveler.com/photos/56cb8369b19e7d9b785203a5/master/w_2048,h_1536,c_limit/Beautiful-Canada-Stanley-Park.jpg" width="500" height="400"/>
