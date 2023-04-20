@@ -6,7 +6,7 @@
   <img src="https://miro.medium.com/max/1400/1*L76A5gL6176UbMgn7q4Ybg.jpeg" width="300" height="200"/>
 </div>
 
-- 🧑‍🎓 Double major undergraduate in Mathematics and Computer Science with a minor in business, from Hong Kong University of Science and Technology
+- 🧑‍🎓 Double major undergraduate in Mathematics and Computer Science with a minor in business, from Hong Kong University of Science and Technology (HKUST)
 - ➕ Mathematics and Computer science are my most favourite subject, especially the Mathematical finance, Combinatorial analysis, Probability, and Machine learning
 - ✈️ Travel lover. I have been to over 80 cities in the world. The favourite countries for me are definitely Canada, Australia, Japan, and Hong Kong 🥰
 - 🤖 I am particularly passionate in machine learning and completed all of the postgraduate level artificial inteligence courses in my university.
