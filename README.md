@@ -17,9 +17,12 @@
 
 <b>Highligted project(Latest)⭐: Clustering-based pair trading using reinforcement learning
   ![Clustering-based pair trading](https://github.com/phantomgodmoon/phantomgodmoon/assets/68416360/6e01f28e-fd6b-406c-85ff-6168258d7725.png)
+  (Report pdf: [Clustering-based pair trading using reinforcement learning.pdf](https://github.com/phantomgodmoon/phantomgodmoon/files/11442838/Clustering-based.pair.trading.using.reinforcement.learning.pdf))
+</b>
 
   
-<b>Highlighted project(2): Mathematics capstone project: ML-based pairs trading, option pricing, and Portfolio optimizaton:[MATH_4999.pdf](https://github.com/phantomgodmoon/phantomgodmoon/files/11287613/MATH_4999.pdf)
+<b>Highlighted project(2): Mathematics capstone project: ML-based pairs trading, option pricing, and Portfolio optimizaton:
+  (Report pdf: [MATH_4999.pdf](https://github.com/phantomgodmoon/phantomgodmoon/files/11287613/MATH_4999.pdf))
   </b>
   
 <b>Highlighted project (3): Machine learning in quantitative stock trading: 🔥</b>
