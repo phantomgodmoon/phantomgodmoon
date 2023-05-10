@@ -22,9 +22,9 @@
 
   
 <b>Highlighted project(2): Mathematics capstone project: ML-based pairs trading, option pricing, and Portfolio optimizaton:
-  ![MATH4999](https://github.com/phantomgodmoon/phantomgodmoon/assets/68416360/2ded1ae3-de19-4208-a253-e174157e526d)
+  ![MATH4999](https://github.com/phantomgodmoon/phantomgodmoon/assets/68416360/2ded1ae3-de19-4208-a253-e174157e526d.png)
 
-  (Report pdf: ![MATH_4999_ Leung Pak Hei.pdf](https://github.com/phantomgodmoon/phantomgodmoon/files/11442860/MATH_4999_.Leung.Pak.Hei.pdf) )
+  (Report pdf: [MATH_4999_ Leung Pak Hei.pdf](https://github.com/phantomgodmoon/phantomgodmoon/files/11442860/MATH_4999_.Leung.Pak.Hei.pdf) )
   </b>
   
 <b>Highlighted project (3): Machine learning in quantitative stock trading: 🔥</b>
