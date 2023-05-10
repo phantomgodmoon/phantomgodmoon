@@ -15,12 +15,14 @@
 - 👨‍💼 How to reach my CV: https://www.linkedin.com/in/marco-leung-aa17711a7/
 - 📫 How to reach me: phantomgodmoon@protonmail.com
 
+<b>Highligted project(Latest)⭐: Clustering-based pair trading using reinforcement learning!
+  [Clustering-based pair trading](https://github.com/phantomgodmoon/phantomgodmoon/assets/68416360/6e01f28e-fd6b-406c-85ff-6168258d7725)
 
   
-<b>Highlighted project: Mathematics capstone project: ML-based pairs trading, option pricing, and Portfolio optimizaton:[MATH_4999.pdf](https://github.com/phantomgodmoon/phantomgodmoon/files/11287613/MATH_4999.pdf)
+<b>Highlighted project(2): Mathematics capstone project: ML-based pairs trading, option pricing, and Portfolio optimizaton:[MATH_4999.pdf](https://github.com/phantomgodmoon/phantomgodmoon/files/11287613/MATH_4999.pdf)
   </b>
   
-  <b>Another Highlighted project: Machine learning in quantitative stock trading:   🔥</b>
+<b>Highlighted project (3): Machine learning in quantitative stock trading: 🔥</b>
   ![Poster (1)](https://user-images.githubusercontent.com/68416360/233400456-fd1ecd04-074c-4399-8609-4b14d2a0bff8.png)
   [FYP_Final Report.pdf](https://github.com/phantomgodmoon/phantomgodmoon/files/11287572/FYP_Final.Report.pdf)
 
