@@ -14,8 +14,8 @@
 - 👨‍💼 You can access my CV at: https://www.linkedin.com/in/marco-leung-aa17711a7/ <br>
 - 📫 You can reach me at marcoleung0712@protonmail.com. <be>
 
+[Marco_Leung_Resume.pdf](https://github.com/phantomgodmoon/phantomgodmoon/files/13222370/Marco_Leung_Resume_B.pdf)
 
-[Marco_Leung_Resume.pdf](https://github.com/phantomgodmoon/phantomgodmoon/files/11442838/Clustering-based.pair.trading.using.reinforcement.learning.pdf)
 
 <b>Highligted project(Latest)⭐: Clustering-based pair trading using reinforcement learning
   ![Clustering-based pair trading](https://github.com/phantomgodmoon/phantomgodmoon/assets/68416360/6e01f28e-fd6b-406c-85ff-6168258d7725.png)
