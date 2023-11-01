@@ -5,15 +5,15 @@
   <img src="https://www.telegraph.co.uk/content/dam/betting/Better-Collective/8-Classic.jpg" width="300" height="200"/>
   <img src="https://miro.medium.com/max/1400/1*L76A5gL6176UbMgn7q4Ybg.jpeg" width="300" height="200"/>
 </div>
-
-- 🧑‍🎓 Double major undergraduate in Mathematics and Computer Science with a minor in business, from Hong Kong University of Science and Technology (HKUST)
-- ➕ Mathematics and Computer science are my most favourite subject, especially the Mathematical finance, Combinatorial analysis, Probability, and Machine learning
-- ✈️ Travel lover. I have been to over 80 cities in the world. The favourite countries for me are definitely Canada, Australia, Japan, and Hong Kong 🥰
-- 🤖 I am particularly passionate in machine learning and completed all of the postgraduate level artificial inteligence courses in my university.
-- 💰 I love trading stock during my free time. I have hit over 💵 USD 650,000 profit when I was 21, with 920% profit from Sep 2020 to April 2023.
+- 🧑‍🎓 I hold a double major in Mathematics and Computer Science with a minor in Business from Hong Kong University of Science and Technology (HKUST).
+- ➕ Mathematics, Economics, and Finance are my favorite subjects, particularly Mathematical Finance, Combinatorial Analysis, Probability, and Machine Learning.
+- ✈️ I have a passion for traveling and have explored over 80 cities worldwide. My top cities include Vancouver, Sydney, Fukuoka, and Chiaya 🥰
+- 🤖 I am highly enthusiastic about machine learning and have completed advanced artificial intelligence courses at the postgraduate level.
+- 💰 Trading stocks is a personal interest of mine. At the age of 21, I achieved a profit of over 💵 USD 650,000, with a remarkable 920% profit from September 2020 to April 2023.
 - 🎲 I am a professional poker and gaming player.
-- 👨‍💼 How to reach my CV: https://www.linkedin.com/in/marco-leung-aa17711a7/
-- 📫 How to reach me: phantomgodmoon@protonmail.com
+- 👨‍💼 You can access my CV at: https://www.linkedin.com/in/marco-leung-aa17711a7/
+- 📁 Feel free to download my resume for further details.
+- 📫 You can reach me at marcoleung0712@protonmail.com.
 
 <b>Highligted project(Latest)⭐: Clustering-based pair trading using reinforcement learning
   ![Clustering-based pair trading](https://github.com/phantomgodmoon/phantomgodmoon/assets/68416360/6e01f28e-fd6b-406c-85ff-6168258d7725.png)
