@@ -12,7 +12,7 @@
 - 💰 Trading stocks is a personal interest of mine. At the age of 21, I achieved a profit of over 💵 USD 650,000, with a remarkable 920% profit from September 2020 to April 2023. <br>
 - 🎲 I am a professional poker and gaming player. <br>
 - 👨‍💼 You can access my CV at: https://www.linkedin.com/in/marco-leung-aa17711a7/ <br>
-- 📁 Feel free to download my resume for further details. <br>
+- 📁 Feel free to download my resume for further details:  <br>
 - 📫 You can reach me at marcoleung0712@protonmail.com. <br>
 
 <b>Highligted project(Latest)⭐: Clustering-based pair trading using reinforcement learning
